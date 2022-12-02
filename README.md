@@ -15,8 +15,14 @@ Skills: REACT / JS / HTML / CSS/ BOOTSTRAP/TAILWIND/EXPRESS.JS/NODE.JS/Mongodb
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/AMAscientist5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ahmad-musa-abdullah//) 
 
- [https://media.giphy.com/media/uxPlGvoc1TlgPF0deH/giphy.gif](https://www.facebook.com/https://www.facebook.com/ahmed.musa.abdullah/)  
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uxPlGvoc1TlgPF0deH/giphy.gif" width="100"/>
 </div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif
+" width="100"/>
+</div>
+
