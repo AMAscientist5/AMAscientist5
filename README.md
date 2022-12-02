@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **amaahmadmusa@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Z2D9752344z0cppiSIs9-pPWy43vlWXGpVmN3rWmCDQ/edit?usp=sharing](https://docs.google.com/document/d/1Z2D9752344z0cppiSIs9-pPWy43vlWXGpVmN3rWmCDQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I love books, martial art and thinking**
 
