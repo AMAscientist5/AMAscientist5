@@ -17,3 +17,6 @@ Skills: REACT / JS / HTML / CSS/ BOOTSTRAP/TAILWIND/EXPRESS.JS/NODE.JS/Mongodb
 
  [https://media.giphy.com/media/uxPlGvoc1TlgPF0deH/giphy.gif](https://www.facebook.com/https://www.facebook.com/ahmed.musa.abdullah/)  
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/uxPlGvoc1TlgPF0deH/giphy.gif" width="100"/>
+</div>
