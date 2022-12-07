@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, It's Ahmad Musa</h1>
 <h3 align="center">A Passionate MERN Stack Web-Developer</h3>
 
-<h6>
+<p>
 I have been working for more than 12 years in many other fields, as a Sales Agent, Manager, and Assistant Manager in the CRM department. And have experienced most recently 3+ years as a Senior Educational Counselor in multiple companies. Good Communication, Team Leading, Team Management, Achieving Goals, problem-solving, challenging-hard-working, and Time-management are now my habitual characteristic. I love to work organized way. learning new things makes me happy by born. I am self-employed and disciplined I believe that discipline is the master key to success. 
 
 Now I have finished a very popular and well-trained base web-development 6 months-long course. I have done some projects too. web-development has become my dream and passion. I switched all of my attraction to web-development careers right now. I am constantly growing and building my skills by practicing and doing something real.
-</h6>
+</p>
 
 - 🌱 I’m currently learning **Next.js**
 
