@@ -1,4 +1,4 @@
-![A MERN Stack Web-Developer](https://media-exp1.licdn.com/dms/image/D5616AQFZnxm8k4gcrA/profile-displaybackgroundimage-shrink_350_1400/0/1670400827905?e=1675900800&v=beta&t=xttOwc_-imffAXe1DtbqWYk8LA0GAqyL4JB1XnTk9DQ)
+![A MERN Stack Web-Developer](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/318717542_5638826659544935_7586290115648357826_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHUTL1ihRxjL_nvhQjjk1dl4CjSJXq7FIDgKNIlersUgCLYxzdl9M2Znnv1AbMFBfM7XnwfW6mlvmIiMmNZsO1H&_nc_ohc=EnmYY1FXP1QAX9_RkWp&_nc_ht=scontent.fdac27-2.fna&oh=00_AfCxG8CkIhUFE1aHG98zOlBOduob56l9pYRYNwUvd2AW-g&oe=63945B38)
 
 <h1 align="center">Hi 👋, It's Ahmad Musa</h1>
 <h3 align="center">A Passionate MERN Stack Web-Developer</h3>
