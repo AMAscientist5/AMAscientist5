@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, It's Ahmad Musa</h1>
 <h3 align="center">A Passionate MERN Stack Web-Developer</h3>
 
+<h3>I have been working for more than 12 years in many fields as a Sales Agent, Manager, and Assistant Manager in the CRM department and have experienced most recently 3+ years as a Senior Educational Counselor in multiple companies. 
+
+Now I have finished a very popular and well-trained base web-development 6 months-long course. I have done some projects too in this course using some very demanding technologies like (tailwind.css, BS, Javascript, React, and Node.js. MongoDB.)
+
+I am very passionate about a web development career and growing and building my skills by practicing and doing something real.</h3>
+
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
